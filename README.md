@@ -6,9 +6,7 @@
 ---
 
 ## 📌 Auteurs
-- **LAHINIRIKO Mara Sylvain**  
 - **RAZAFIMAHATRATRA Fahasoavana Francis** *(GitHub: [@fasoavana](https://github.com/fasoavana))*  
-
 ---
 
 ## 🔍 Sommaire
